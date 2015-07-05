@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<structure>
+
+    <library
+        name="adodb"
+        file="adodb.library"/>
+        
+    <tempdir
+        name="adodb_cache"
+        file="adodb_cache"/>
+
+    <generalpreinstall
+        file="generalpreinstall.php"/>
+        
+    <generalpreupdate
+        file="generalpreupdate.php"/>
+
+    <generalpostuninstall
+        file="generalpostuninstall.php"/>
+
+</structure>

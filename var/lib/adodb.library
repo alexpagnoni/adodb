@@ -1,0 +1,11 @@
+<?php
+if ( !defined( 'ADODB_LIBRARY' ) )
+{
+define( 'ADODB_LIBRARY', true );
+
+$ADODB_CACHE_DIR = TMP_PATH.'adodb_cache';
+
+include( MODULE_PATH.'adodb/adodb/adodb.inc.php' );
+
+}
+?>

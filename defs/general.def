@@ -1,0 +1,39 @@
+# Module short name
+MODULEIDNAME       = adodb
+
+# Module version number
+MODULEVERSION      = 3.31-1
+
+# Module release date
+MODULEDATE         = 2003/03/31
+
+# Module long description
+MODULEDESCRIPTION  = ADOdb stands for Active Data Objects Data Base.
+
+# Module dependencies
+MODULEDEPENDENCIES = ampoliros[3.2.0]
+
+# Module suggestions
+MODULESUGGESTIONS  =
+
+MODULE_AUTHOR        = John Lim
+
+MODULE_AUTHOR_EMAIL  = jlim@natsoft.com.my
+
+MODULE_AUTHOR_SITE   = http://php.weblogs.com/adodb<
+
+MODULE_SUPPORT_EMAIL =
+
+MODULE_BUGS_EMAIL    =
+
+MODULE_COPYRIGHT     = (c) 2000-2002 John Lim (jlim@natsoft.com.my). All rights reserved.
+
+MODULE_LICENSE       = BSD / LGPL
+
+MODULE_LICENSE_FILE  = license.txt
+
+MODULE_MAINTAINER    = Alex Pagnoni - Solarix
+
+MODULE_MAINTAINER_EMAIL = alex.pagnoni@solarix.biz
+
+MODULE_CATEGORY      = libraries
